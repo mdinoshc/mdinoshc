@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Engineer(R) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+I am a Computer Science UG.(R) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 - :telescope: I’m working on building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
