@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Computer Science UG.(R) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+I am a Software Engineer & Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 - :telescope: I’m working on building web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -36,6 +36,7 @@ I am a Computer Science UG.(R) <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dinosh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinosh-chriton-323846185/)
 
+- :website:How to reach me: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](www.mdinoshc.github.io)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
