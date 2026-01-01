@@ -36,7 +36,7 @@ I am a Software Engineer & Developer. <img src="https://media.giphy.com/media/WU
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dinosh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinosh-chriton-323846185/)
 
-- :website:How to reach me: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](www.mdinoshc.github.io)
+- :website:How to reach me: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mdinoshc.github.io)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
